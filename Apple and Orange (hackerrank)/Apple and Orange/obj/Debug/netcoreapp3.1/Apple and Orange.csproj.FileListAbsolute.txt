@@ -1,0 +1,13 @@
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Apple and Orange\Apple and Orange\bin\Debug\netcoreapp3.1\Apple and Orange.exe
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Apple and Orange\Apple and Orange\bin\Debug\netcoreapp3.1\Apple and Orange.deps.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Apple and Orange\Apple and Orange\bin\Debug\netcoreapp3.1\Apple and Orange.runtimeconfig.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Apple and Orange\Apple and Orange\bin\Debug\netcoreapp3.1\Apple and Orange.runtimeconfig.dev.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Apple and Orange\Apple and Orange\bin\Debug\netcoreapp3.1\Apple and Orange.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Apple and Orange\Apple and Orange\bin\Debug\netcoreapp3.1\Apple and Orange.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Apple and Orange\Apple and Orange\obj\Debug\netcoreapp3.1\Apple and Orange.csprojAssemblyReference.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Apple and Orange\Apple and Orange\obj\Debug\netcoreapp3.1\Apple and Orange.AssemblyInfoInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Apple and Orange\Apple and Orange\obj\Debug\netcoreapp3.1\Apple and Orange.AssemblyInfo.cs
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Apple and Orange\Apple and Orange\obj\Debug\netcoreapp3.1\Apple and Orange.csproj.CoreCompileInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Apple and Orange\Apple and Orange\obj\Debug\netcoreapp3.1\Apple and Orange.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Apple and Orange\Apple and Orange\obj\Debug\netcoreapp3.1\Apple and Orange.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Apple and Orange\Apple and Orange\obj\Debug\netcoreapp3.1\Apple and Orange.genruntimeconfig.cache

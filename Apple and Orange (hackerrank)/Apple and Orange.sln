@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apple and Orange", "Apple and Orange\Apple and Orange.csproj", "{0E94506E-107E-4FD2-B145-7C2EB4A70DDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E94506E-107E-4FD2-B145-7C2EB4A70DDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E94506E-107E-4FD2-B145-7C2EB4A70DDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E94506E-107E-4FD2-B145-7C2EB4A70DDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E94506E-107E-4FD2-B145-7C2EB4A70DDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8252ACFD-D928-4BB2-8C78-28646AAEDC63}
+	EndGlobalSection
+EndGlobal

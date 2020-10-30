@@ -1,0 +1,13 @@
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Sub-array Division\Sub-array Division\bin\Debug\netcoreapp3.1\Sub-array Division.exe
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Sub-array Division\Sub-array Division\bin\Debug\netcoreapp3.1\Sub-array Division.deps.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Sub-array Division\Sub-array Division\bin\Debug\netcoreapp3.1\Sub-array Division.runtimeconfig.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Sub-array Division\Sub-array Division\bin\Debug\netcoreapp3.1\Sub-array Division.runtimeconfig.dev.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Sub-array Division\Sub-array Division\bin\Debug\netcoreapp3.1\Sub-array Division.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Sub-array Division\Sub-array Division\bin\Debug\netcoreapp3.1\Sub-array Division.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Sub-array Division\Sub-array Division\obj\Debug\netcoreapp3.1\Sub-array Division.csprojAssemblyReference.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Sub-array Division\Sub-array Division\obj\Debug\netcoreapp3.1\Sub-array Division.AssemblyInfoInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Sub-array Division\Sub-array Division\obj\Debug\netcoreapp3.1\Sub-array Division.AssemblyInfo.cs
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Sub-array Division\Sub-array Division\obj\Debug\netcoreapp3.1\Sub-array Division.csproj.CoreCompileInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Sub-array Division\Sub-array Division\obj\Debug\netcoreapp3.1\Sub-array Division.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Sub-array Division\Sub-array Division\obj\Debug\netcoreapp3.1\Sub-array Division.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Sub-array Division\Sub-array Division\obj\Debug\netcoreapp3.1\Sub-array Division.genruntimeconfig.cache

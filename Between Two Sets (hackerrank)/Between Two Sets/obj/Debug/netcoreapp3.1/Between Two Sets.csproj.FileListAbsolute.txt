@@ -1,0 +1,13 @@
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Between Two Sets\Between Two Sets\obj\Debug\netcoreapp3.1\Between Two Sets.csprojAssemblyReference.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Between Two Sets\Between Two Sets\obj\Debug\netcoreapp3.1\Between Two Sets.AssemblyInfoInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Between Two Sets\Between Two Sets\obj\Debug\netcoreapp3.1\Between Two Sets.AssemblyInfo.cs
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Between Two Sets\Between Two Sets\obj\Debug\netcoreapp3.1\Between Two Sets.csproj.CoreCompileInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Between Two Sets\Between Two Sets\bin\Debug\netcoreapp3.1\Between Two Sets.exe
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Between Two Sets\Between Two Sets\bin\Debug\netcoreapp3.1\Between Two Sets.deps.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Between Two Sets\Between Two Sets\bin\Debug\netcoreapp3.1\Between Two Sets.runtimeconfig.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Between Two Sets\Between Two Sets\bin\Debug\netcoreapp3.1\Between Two Sets.runtimeconfig.dev.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Between Two Sets\Between Two Sets\bin\Debug\netcoreapp3.1\Between Two Sets.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Between Two Sets\Between Two Sets\bin\Debug\netcoreapp3.1\Between Two Sets.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Between Two Sets\Between Two Sets\obj\Debug\netcoreapp3.1\Between Two Sets.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Between Two Sets\Between Two Sets\obj\Debug\netcoreapp3.1\Between Two Sets.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Between Two Sets\Between Two Sets\obj\Debug\netcoreapp3.1\Between Two Sets.genruntimeconfig.cache

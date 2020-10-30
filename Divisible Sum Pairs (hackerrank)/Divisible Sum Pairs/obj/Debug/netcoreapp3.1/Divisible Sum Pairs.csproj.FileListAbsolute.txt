@@ -1,0 +1,13 @@
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Divisible Sum Pairs\Divisible Sum Pairs\bin\Debug\netcoreapp3.1\Divisible Sum Pairs.exe
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Divisible Sum Pairs\Divisible Sum Pairs\bin\Debug\netcoreapp3.1\Divisible Sum Pairs.deps.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Divisible Sum Pairs\Divisible Sum Pairs\bin\Debug\netcoreapp3.1\Divisible Sum Pairs.runtimeconfig.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Divisible Sum Pairs\Divisible Sum Pairs\bin\Debug\netcoreapp3.1\Divisible Sum Pairs.runtimeconfig.dev.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Divisible Sum Pairs\Divisible Sum Pairs\bin\Debug\netcoreapp3.1\Divisible Sum Pairs.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Divisible Sum Pairs\Divisible Sum Pairs\bin\Debug\netcoreapp3.1\Divisible Sum Pairs.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Divisible Sum Pairs\Divisible Sum Pairs\obj\Debug\netcoreapp3.1\Divisible Sum Pairs.csprojAssemblyReference.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Divisible Sum Pairs\Divisible Sum Pairs\obj\Debug\netcoreapp3.1\Divisible Sum Pairs.AssemblyInfoInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Divisible Sum Pairs\Divisible Sum Pairs\obj\Debug\netcoreapp3.1\Divisible Sum Pairs.AssemblyInfo.cs
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Divisible Sum Pairs\Divisible Sum Pairs\obj\Debug\netcoreapp3.1\Divisible Sum Pairs.csproj.CoreCompileInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Divisible Sum Pairs\Divisible Sum Pairs\obj\Debug\netcoreapp3.1\Divisible Sum Pairs.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Divisible Sum Pairs\Divisible Sum Pairs\obj\Debug\netcoreapp3.1\Divisible Sum Pairs.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Divisible Sum Pairs\Divisible Sum Pairs\obj\Debug\netcoreapp3.1\Divisible Sum Pairs.genruntimeconfig.cache

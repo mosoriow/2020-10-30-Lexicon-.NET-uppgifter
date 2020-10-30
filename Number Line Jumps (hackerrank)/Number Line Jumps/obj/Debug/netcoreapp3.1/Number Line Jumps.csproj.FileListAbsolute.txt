@@ -1,0 +1,13 @@
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Number Line Jumps\Number Line Jumps\bin\Debug\netcoreapp3.1\Number Line Jumps.exe
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Number Line Jumps\Number Line Jumps\bin\Debug\netcoreapp3.1\Number Line Jumps.deps.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Number Line Jumps\Number Line Jumps\bin\Debug\netcoreapp3.1\Number Line Jumps.runtimeconfig.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Number Line Jumps\Number Line Jumps\bin\Debug\netcoreapp3.1\Number Line Jumps.runtimeconfig.dev.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Number Line Jumps\Number Line Jumps\bin\Debug\netcoreapp3.1\Number Line Jumps.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Number Line Jumps\Number Line Jumps\bin\Debug\netcoreapp3.1\Number Line Jumps.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Number Line Jumps\Number Line Jumps\obj\Debug\netcoreapp3.1\Number Line Jumps.csprojAssemblyReference.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Number Line Jumps\Number Line Jumps\obj\Debug\netcoreapp3.1\Number Line Jumps.AssemblyInfoInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Number Line Jumps\Number Line Jumps\obj\Debug\netcoreapp3.1\Number Line Jumps.AssemblyInfo.cs
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Number Line Jumps\Number Line Jumps\obj\Debug\netcoreapp3.1\Number Line Jumps.csproj.CoreCompileInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Number Line Jumps\Number Line Jumps\obj\Debug\netcoreapp3.1\Number Line Jumps.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Number Line Jumps\Number Line Jumps\obj\Debug\netcoreapp3.1\Number Line Jumps.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Number Line Jumps\Number Line Jumps\obj\Debug\netcoreapp3.1\Number Line Jumps.genruntimeconfig.cache

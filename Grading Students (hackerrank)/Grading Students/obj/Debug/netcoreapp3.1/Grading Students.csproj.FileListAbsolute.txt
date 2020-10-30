@@ -1,0 +1,13 @@
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Grading Students\Grading Students\obj\Debug\netcoreapp3.1\Grading Students.csprojAssemblyReference.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Grading Students\Grading Students\obj\Debug\netcoreapp3.1\Grading Students.AssemblyInfoInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Grading Students\Grading Students\obj\Debug\netcoreapp3.1\Grading Students.AssemblyInfo.cs
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Grading Students\Grading Students\obj\Debug\netcoreapp3.1\Grading Students.csproj.CoreCompileInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Grading Students\Grading Students\bin\Debug\netcoreapp3.1\Grading Students.exe
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Grading Students\Grading Students\bin\Debug\netcoreapp3.1\Grading Students.deps.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Grading Students\Grading Students\bin\Debug\netcoreapp3.1\Grading Students.runtimeconfig.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Grading Students\Grading Students\bin\Debug\netcoreapp3.1\Grading Students.runtimeconfig.dev.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Grading Students\Grading Students\bin\Debug\netcoreapp3.1\Grading Students.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Grading Students\Grading Students\bin\Debug\netcoreapp3.1\Grading Students.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Grading Students\Grading Students\obj\Debug\netcoreapp3.1\Grading Students.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Grading Students\Grading Students\obj\Debug\netcoreapp3.1\Grading Students.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Grading Students\Grading Students\obj\Debug\netcoreapp3.1\Grading Students.genruntimeconfig.cache

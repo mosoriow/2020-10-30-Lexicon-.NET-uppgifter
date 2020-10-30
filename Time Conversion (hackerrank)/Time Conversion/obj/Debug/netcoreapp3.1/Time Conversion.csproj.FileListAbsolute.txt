@@ -1,0 +1,13 @@
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Time Conversion\Time Conversion\bin\Debug\netcoreapp3.1\Time Conversion.exe
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Time Conversion\Time Conversion\bin\Debug\netcoreapp3.1\Time Conversion.deps.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Time Conversion\Time Conversion\bin\Debug\netcoreapp3.1\Time Conversion.runtimeconfig.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Time Conversion\Time Conversion\bin\Debug\netcoreapp3.1\Time Conversion.runtimeconfig.dev.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Time Conversion\Time Conversion\bin\Debug\netcoreapp3.1\Time Conversion.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Time Conversion\Time Conversion\bin\Debug\netcoreapp3.1\Time Conversion.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Time Conversion\Time Conversion\obj\Debug\netcoreapp3.1\Time Conversion.csprojAssemblyReference.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Time Conversion\Time Conversion\obj\Debug\netcoreapp3.1\Time Conversion.AssemblyInfoInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Time Conversion\Time Conversion\obj\Debug\netcoreapp3.1\Time Conversion.AssemblyInfo.cs
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Time Conversion\Time Conversion\obj\Debug\netcoreapp3.1\Time Conversion.csproj.CoreCompileInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Time Conversion\Time Conversion\obj\Debug\netcoreapp3.1\Time Conversion.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Time Conversion\Time Conversion\obj\Debug\netcoreapp3.1\Time Conversion.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Time Conversion\Time Conversion\obj\Debug\netcoreapp3.1\Time Conversion.genruntimeconfig.cache

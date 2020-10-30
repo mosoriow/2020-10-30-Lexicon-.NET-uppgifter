@@ -1,0 +1,13 @@
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Breaking the Records\Breaking the Records\obj\Debug\netcoreapp3.1\Breaking the Records.csprojAssemblyReference.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Breaking the Records\Breaking the Records\obj\Debug\netcoreapp3.1\Breaking the Records.AssemblyInfoInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Breaking the Records\Breaking the Records\obj\Debug\netcoreapp3.1\Breaking the Records.AssemblyInfo.cs
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Breaking the Records\Breaking the Records\obj\Debug\netcoreapp3.1\Breaking the Records.csproj.CoreCompileInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Breaking the Records\Breaking the Records\bin\Debug\netcoreapp3.1\Breaking the Records.exe
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Breaking the Records\Breaking the Records\bin\Debug\netcoreapp3.1\Breaking the Records.deps.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Breaking the Records\Breaking the Records\bin\Debug\netcoreapp3.1\Breaking the Records.runtimeconfig.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Breaking the Records\Breaking the Records\bin\Debug\netcoreapp3.1\Breaking the Records.runtimeconfig.dev.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Breaking the Records\Breaking the Records\bin\Debug\netcoreapp3.1\Breaking the Records.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Breaking the Records\Breaking the Records\bin\Debug\netcoreapp3.1\Breaking the Records.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Breaking the Records\Breaking the Records\obj\Debug\netcoreapp3.1\Breaking the Records.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Breaking the Records\Breaking the Records\obj\Debug\netcoreapp3.1\Breaking the Records.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Breaking the Records\Breaking the Records\obj\Debug\netcoreapp3.1\Breaking the Records.genruntimeconfig.cache
